@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|c:\\users\\emirh\\desktop\\hastabilgisistemi\\hastatakipsistemi\\hastatakipsistemi\\frm\u0130statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\frm\u0130statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|c:\\users\\emirh\\desktop\\hastabilgisistemi\\hastatakipsistemi\\hastatakipsistemi\\frm\u0130statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\frm\u0130statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|c:\\users\\emirh\\desktop\\hastabilgisistemi\\hastatakipsistemi\\hastatakipsistemi\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastatakipsistemi\\frmanasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\frmanasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastatakipsistemi\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastatakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880E4414-8283-4A36-8C2C-623098FC44C3}|hastaTAkipSistemi\\hastaTAkipSistemi.csproj|solutionrelative:hastatakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm\u0130statistic.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "RelativeToolTip": "hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:31:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm\u0130statistic.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\frm\u0130statistic.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frm\u0130statistic.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastaTAkipSistemi\\frm\u0130statistic.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:19:09.225Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "RelativeToolTip": "hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAADwvwMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:36:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAnaSayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.Designer.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\frmAnaSayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.Designer.cs",
+              "RelativeToolTip": "hastaTAkipSistemi\\frmAnaSayfa.Designer.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAAAGQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:15:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\frmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\frmAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastaTAkipSistemi\\frmAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:15:56.331Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "hastaTAkipSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirh\\Desktop\\hastaBilgiSistemi\\hastaTAkipSistemi\\hastaTAkipSistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastaTAkipSistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:27:44.689Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
